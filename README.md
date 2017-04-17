@@ -1,5 +1,5 @@
 # Loading svg for ReactJS
-[中文 README](README_ZH.md)
+[中文 文档](https://ppeerit.github.io/ppeerit-react-loading/)
 ## Installation
 use npm 
 ```sh
