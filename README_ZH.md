@@ -1,5 +1,7 @@
 # reactjs的loading库
-[English README](README.md)
+[Document](https://ppeerit.github.io/ppeerit-react-loading/)
+
+[中文文档](https://ppeerit.github.io/ppeerit-react-loading/README_ZH.html)
 ## 安装
 使用 npm 
 ```sh
