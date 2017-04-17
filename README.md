@@ -13,7 +13,7 @@ npm install ppeerit-react-loading --save
 import Loading from 'ppeerit-react-loading';
 ```
 ## Add Loading Component to render function
-```js
+```jsx
 //...
 render() {
     return (
