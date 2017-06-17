@@ -1,6 +1,6 @@
 {
   "name": "ppeerit-react-loading",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "loading for reactjs",
   "main": "dist/index.js",
   "scripts": {
